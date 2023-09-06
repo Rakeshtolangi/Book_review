@@ -18,13 +18,14 @@ I installed GitHub Desktop, which gives the best possible way to push and update
     This command will create a project directory where all the projects are structured.
     2. In your terminal, change to the bookr project directory and then run
             python3 manage.py runserver.
-    Using the above command starts Django development server.
-You should see the following screen of your machine.
+    Using the above command starts the Django development server.
+You should see the following screen on your machine.
 
 
 [![Screenshot-384.png](https://i.postimg.cc/y6RMqgbx/Screenshot-384.png)](https://postimg.cc/LhHCLXRF)
-Click on the http link shown in the terminal to redirect into broswer.
-![](../../../../Pictures/Screenshots/Screenshot (385).png)
+Click on the http link shown in the terminal to redirect to the browser.
+![Screenshot (385)](https://github.com/Rakeshtolangi/Book_review/assets/37937939/bea9db27-e72b-4b7b-a0d9-a422603cfa10)
+
 
 
 
