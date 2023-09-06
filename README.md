@@ -1,5 +1,5 @@
 
-# Book_review
+# Book_review #
 This is a project in django where user will signup and give reviews on books they find useful.
 
 
@@ -12,7 +12,7 @@ I created a GitHub repo to store and track my project. **https://github.com/Rake
 I installed GitHub Desktop, which gives the best possible way to push and update your progress while working on your project. **https://desktop.github.com/**
 **Sign up with your GitHub on GitHub desktop and set up your repo there.**
 
-** 1.01 creating a project and app, and starting the development server.
+### 1.01 creating a project and app, and starting the development server. ###
     1. Open the terminal and run the command to create the bookr project directory
     **django-admin startproject bookr**
     This command will create a project directory where all the projects are structured.
@@ -25,6 +25,17 @@ You should see the following screen on your machine.
 [![Screenshot-384.png](https://i.postimg.cc/y6RMqgbx/Screenshot-384.png)](https://postimg.cc/LhHCLXRF)
 Click on the http link shown in the terminal to redirect to the browser.
 ![Screenshot (385)](https://github.com/Rakeshtolangi/Book_review/assets/37937939/bea9db27-e72b-4b7b-a0d9-a422603cfa10)
+
+
+### 1.02 project setup in PyCharm ###
+
+Open project in PyCharm IDE
+Choose interpreter using settings and also virtual environment
+ 
+After completing, add configuration which will run your surver and help to debug your applicaiton.
+
+### Exploring Url Mapping 
+
 
 
 
