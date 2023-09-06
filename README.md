@@ -24,7 +24,7 @@ You should see the following screen of your machine.
 
 [![Screenshot-384.png](https://i.postimg.cc/y6RMqgbx/Screenshot-384.png)](https://postimg.cc/LhHCLXRF)
 Click on the http link shown in the terminal to redirect into broswer.
-![Screenshot (384)](https://github.com/Rakeshtolangi/Book_review/assets/37937939/bcefdf22-6622-4e87-a92d-e87b59fcf619)
+![](../../../../Pictures/Screenshots/Screenshot (385).png)
 
 
 
