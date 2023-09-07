@@ -35,6 +35,9 @@ Choose interpreter using settings and also virtual environment
 After completing, add configuration which will run your surver and help to debug your applicaiton.
 
 ### Exploring Url Mapping 
+This file contains a variable, urlpatterns, which is a list of paths that Django evaluates in turn
+until it finds a match for the URL being requested.
+
 
 
 
